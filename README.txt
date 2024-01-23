@@ -24,7 +24,13 @@ git log = list down all the commits(version) of the repository.
 
 git restore <file>  = is going to delete which is not commit yet and is in staging area.
 
-git restore --staged <file>  = restore files from staging area to the working area. 
+git restore --staged <file>  = it removes files from changes from staging area to the working area. 
+this only works if changes are in your staging area.
+
+
+
+
+
 
 
 
