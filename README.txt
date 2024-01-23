@@ -27,8 +27,16 @@ git restore <file>  = is going to delete which is not commit yet and is in stagi
 git restore --staged <file>  = it removes files from changes from staging area to the working area. 
 this only works if changes are in your staging area.
 
+git remote = list down all the remote connections names
 
+Remote connections : it helps you to link two git repositories for uploading and downloading changes.
+from each otherwise
 
+git remote add <name of remote> <link>
+
+git remote rm <name of remote> = deletes a remote
+
+git remote rename <oldname> <newmane>
 
 
 
