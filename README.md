@@ -39,6 +39,9 @@ git remote rm <name of remote> = deletes a remote
 git remote rename <oldname> <newmane>
 
 
+git pull <remote name> <branch name> : downloads latest changes from the branch of the mentioned remote in your local rep.
+
+
 
 
 
