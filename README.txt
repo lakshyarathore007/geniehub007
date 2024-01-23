@@ -20,5 +20,13 @@ commit = it is a particular version of the projec. IT captures a snapshot of the
 
 git commit 
 
+git log = list down all the commits(version) of the repository.
+
+git restore <file>  = is going to delete which is not commit yet and is in staging area.
+
+git restore --staged <file>  = restore files from staging area to the working area. 
+
+
+
 
 
